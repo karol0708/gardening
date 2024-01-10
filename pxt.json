@@ -1,0 +1,46 @@
+{
+    "name": "Gardening",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#d45362",
+        "#e8958b",
+        "#cc8945",
+        "#f5dc8c",
+        "#417d53",
+        "#5dd48f",
+        "#5162c2",
+        "#6cadeb",
+        "#b56edd",
+        "#8f3f29",
+        "#612431",
+        "#c0fac2",
+        "#24325e",
+        "#1b1221"
+    ]
+}
